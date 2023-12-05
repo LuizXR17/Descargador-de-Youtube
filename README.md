@@ -22,7 +22,7 @@ Para instalar y ejecutar este proyecto, sigue estos pasos:
 1. Clona el repositorio:
 
 ```bash
-  git clone https://github.com/Kaizen/Youtube-Downloader.git
+  git clone [https://github.com/Kaizen/Youtube-Downloader.git](https://github.com/LuizXR17/Descargador-de-Youtube/tree/main/Youtube%20Downloader)
 ```
 
 2. Navega al directorio del proyecto:
